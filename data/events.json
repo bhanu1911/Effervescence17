@@ -568,7 +568,20 @@
 		"categories": [
 			"dance"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Shubham",
+				"phoneNumber": 7376286670
+			},
+			{
+				"name": "Soumya Verma",
+				"phoneNumber": 9458466390
+			},
+			{
+				"name": "Simran Gill",
+				"phoneNumber": 7317886616
+			}	
+		]
 	},
 	{
 		"id": 125,
@@ -582,7 +595,21 @@
 		"categories": [
 			"dance"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Aashi Pundir",
+				"phoneNumber": 9599416067
+				
+			},
+			{
+				"name": "Suraj Singh",
+				"phoneNumber": 7524098807
+			},
+			{
+				"name": "Saumya Verma",
+				"phoneNumber": 9458466390
+			}
+		]
 	},
 	{
 		"id": 126,
@@ -963,8 +990,8 @@
 	},
 	{
 		"id": 148,
-		"name": "Footloose",
-		"description": "Groovy beats and Dancing. The main stagedance event at Effervescence promises the outpour of the hearts desires with the beats of music.",
+		"name": "Footloose: Finale",
+		"description": "Groovy beats and Dancing. The main stage dance event at Effervescence promises the outpour of the hearts desires with the beats of music.",
 		"location": "Main Stage set inside the campus.",
 		"timestamp": 1507930200,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/footloose.jpg",
@@ -974,7 +1001,20 @@
 			"main stage",
 			"dance"
 		],
-		"organizers": []
+		"organizers": [
+			{
+				"name": "Shashank Sharma",
+				"phoneNumber": 9473508054
+			},
+			{
+				"name": "Sakshi Singh",
+				"phoneNumber": 8175856920
+			},
+			{
+				"name": "Amit KS",
+				"phoneNumber": 7607033455
+			}	
+		]
 	},
 	{
 		"id": 149,
