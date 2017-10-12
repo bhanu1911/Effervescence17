@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"id": 101,
 		"name": "Gully Cricket",
 		"description": "Effervescence'17 presents to you the most entertaining event \"GULLY CRICKET\". Make your Team of Bluster and Come to play game of spirit. Win Cash and other exciting prizes...",
@@ -11,8 +10,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Ashutosh Vishwakarma",
 				"phoneNumber": 9457611044
 			},
@@ -34,8 +32,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Abhishek D Nandan",
 				"phoneNumber": 8603111470
 			},
@@ -57,8 +54,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Aseem Shrey",
 				"phoneNumber": 9455245705
 			},
@@ -80,8 +76,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Badnena Upendra",
 				"phoneNumber": 9831474771
 			},
@@ -107,8 +102,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Pallak Srivastava",
 				"phoneNumber": 7379458308
 			},
@@ -130,8 +124,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Shubham Varshney",
 				"phoneNumber": 7052065360
 			},
@@ -157,8 +150,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Aditya Goel",
 				"phoneNumber": 9001791793
 			},
@@ -180,8 +172,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Aswin",
 				"phoneNumber": 8281637530
 			},
@@ -207,8 +198,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Pradeep Kumar",
 				"phoneNumber": 8938922705
 			},
@@ -230,8 +220,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Sanika Surse",
 				"phoneNumber": 7380844608
 			},
@@ -254,8 +243,7 @@
 			"informal",
 			"gaming"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Raghav Khandelwal",
 				"phoneNumber": 9414038742
 			},
@@ -278,8 +266,7 @@
 			"informal",
 			"gaming"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Rohit Kumar",
 				"phoneNumber": 8174015678
 			},
@@ -302,8 +289,7 @@
 			"informal",
 			"gaming"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Harsh Jain",
 				"phoneNumber": 8349454791
 			},
@@ -325,8 +311,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Aanandita Dhawan",
 				"phoneNumber": 8957065531
 			},
@@ -349,8 +334,7 @@
 			"informal",
 			"quiz"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Akash Mishra",
 				"phoneNumber": 9696427244
 			},
@@ -373,8 +357,7 @@
 			"informal",
 			"quiz"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Piyush Gurnule",
 				"phoneNumber": 7276575280
 			},
@@ -397,8 +380,7 @@
 			"informal",
 			"quiz"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Parth Agarwal",
 				"phoneNumber": 9557646688
 			},
@@ -420,8 +402,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Shreyansh Chaudhary",
 				"phoneNumber": 9559155755
 			},
@@ -447,8 +428,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Ankit jain",
 				"phoneNumber": 7597604467
 			},
@@ -470,8 +450,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Akshay Kumar",
 				"phoneNumber": 8002430834
 			},
@@ -493,8 +472,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Nishant Malik",
 				"phoneNumber": 7252920582
 			},
@@ -516,8 +494,7 @@
 		"categories": [
 			"informal"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Swapnesh Narayan",
 				"phoneNumber": 9839775664
 			},
@@ -548,8 +525,7 @@
 			"informal",
 			"gaming"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Srikar kvs",
 				"phoneNumber": 7237857583
 			},
@@ -571,8 +547,7 @@
 		"categories": [
 			"dance"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Shubham",
 				"phoneNumber": 7376286670
 			},
@@ -583,7 +558,7 @@
 			{
 				"name": "Simran Gill",
 				"phoneNumber": 7317886616
-			}	
+			}
 		]
 	},
 	{
@@ -598,11 +573,10 @@
 		"categories": [
 			"dance"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Aashi Pundir",
 				"phoneNumber": 9599416067
-				
+
 			},
 			{
 				"name": "Suraj Singh",
@@ -640,7 +614,19 @@
 		"categories": [
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Sudhanshu Shakya",
+				"phoneNumber": 8439357480
+			},
+			{
+				"name": "Hiral Agrawal",
+				"phoneNumber": 9452439387
+			},
+			{
+				"name": "Madhur Gupta",
+				"phoneNumber": 8800846806
+			}
+		]
 	},
 	{
 		"id": 129,
@@ -654,7 +640,15 @@
 		"categories": [
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Sakshi Shrivas",
+				"phoneNumber": 8354890780
+			},
+			{
+				"name": "Mukul Singh",
+				"phoneNumber": 8090200805
+			}
+		]
 	},
 	{
 		"id": 130,
@@ -668,12 +662,25 @@
 		"categories": [
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Princy Pathak",
+				"phoneNumber": 7599396139
+			},
+			{
+				"name": "Dhruv Thadani",
+				"phoneNumber": 7860455433
+			},
+			{
+				"name": "Utkarsh Chaurasia",
+				"phoneNumber": 9897211432
+
+			}
+		]
 	},
 	{
 		"id": 131,
 		"name": "Kahani",
-		"description": "An online event to test your writing skills.",
+		"description": "An online event to test your scriptwriting skills.",
 		"location": "",
 		"timestamp": 2,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/kahani.jpg",
@@ -696,8 +703,7 @@
 		"categories": [
 			"music"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Niharika Shrivastava",
 				"phoneNumber": 9869338372
 			},
@@ -723,8 +729,7 @@
 		"categories": [
 			"music"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Arpit Bahety",
 				"phoneNumber": 99924484847
 			},
@@ -750,8 +755,7 @@
 		"categories": [
 			"music"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Vivek Tiwari",
 				"phoneNumber": 9540488830
 			},
@@ -777,8 +781,7 @@
 		"categories": [
 			"music"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Niharika Shrivastava",
 				"phoneNumber": 9869338372
 			},
@@ -819,8 +822,7 @@
 			"literature",
 			"quiz"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Ravi Charan",
 				"phoneNumber": 8187048426
 			},
@@ -842,8 +844,7 @@
 		"categories": [
 			"literature"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Prafull Mishra",
 				"phoneNumber": 9838224416
 			},
@@ -865,18 +866,17 @@
 		"categories": [
 			"literature"
 		],
-		"organizers": [
-			{
-				"name": "Bhanu Bhandari",
-				"phoneNumber": 9958159280
-			},
-			{
+		"organizers": [{
 				"name": "Mantek Singh",
 				"phoneNumber": 8008465118
 			},
 			{
 				"name": "Niharika Gali",
 				"phoneNumber": 9494479776
+			},
+			{
+				"name": "Akash Mishra",
+				"phoneNumber": 9696427244
 			}
 		]
 	},
@@ -906,8 +906,7 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Avinash Yadav",
 				"phoneNumber": 7524990644
 			},
@@ -915,13 +914,13 @@
 				"name": "Manavdeep Singh",
 				"phoneNumber": 7706904885
 			},
-			{	
+			{
 				"name": "Nitin Vijay",
-                                "phoneNumber": 9793016386
+				"phoneNumber": 9793016386
 			}
-			       
+
 		]
- 	
+
 	},
 	{
 		"id": 142,
@@ -935,8 +934,7 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": [
-		        {
+		"organizers": [{
 				"name": "Pratyay Kumar",
 				"phoneNumber": 8987599864
 			},
@@ -945,7 +943,7 @@
 				"phoneNumber": 8604833407
 			},
 			{
-			        "name": "Avinash Yadav",
+				"name": "Avinash Yadav",
 				"phoneNumber": 7524990644
 			}
 		]
@@ -962,8 +960,7 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Vinit Mankar",
 				"phoneNumber": 7706020707
 			},
@@ -972,10 +969,10 @@
 				"phoneNumber": 8588962787
 			},
 			{
-			        "name": "Prakash Kumar",
+				"name": "Prakash Kumar",
 				"phoneNumber": 7361938303
 			}
-			       
+
 		]
 	},
 	{
@@ -990,8 +987,7 @@
 		"categories": [
 			"fine arts"
 		],
-		"organizers": [
-		        {
+		"organizers": [{
 				"name": "Sanam Bahadur",
 				"phoneNumber": 7376286670
 			},
@@ -1000,7 +996,7 @@
 				"phoneNumber": 9458466390
 			},
 			{
-			        "name": "Manavdeep Singh",
+				"name": "Manavdeep Singh",
 				"phoneNumber": 7706904885
 			}
 		]
@@ -1017,8 +1013,7 @@
 		"categories": [
 			"AMS"
 		],
-		"organizers": [
-		        {
+		"organizers": [{
 				"name": "Ashwin Tagde",
 				"phoneNumber": 7408235250
 			},
@@ -1027,7 +1022,7 @@
 				"phoneNumber": 8765923005
 			},
 			{
-			        "name": "Richa Vinian",
+				"name": "Richa Vinian",
 				"phoneNumber": 8400114665
 			}
 		]
@@ -1044,13 +1039,12 @@
 		"categories": [
 			"AMS"
 		],
-		"organizers": [
-		        {
+		"organizers": [{
 				"name": "Ajitesh  Gupta",
 				"phoneNumber": 9005374250
 			},
 			{
-			        "name": "Siddhanth Srivastav",
+				"name": "Siddhanth Srivastav",
 				"phoneNumber": 8765531793
 			}
 		]
@@ -1067,13 +1061,12 @@
 		"categories": [
 			"AMS"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Siddharth Simharaju",
 				"phoneNumber": 8299061623
 			},
 			{
-			        "name": "Saksham Singh",
+				"name": "Saksham Singh",
 				"phoneNumber": 9161896720
 			}
 		]
@@ -1091,8 +1084,7 @@
 			"main stage",
 			"dance"
 		],
-		"organizers": [
-			{
+		"organizers": [{
 				"name": "Shashank Sharma",
 				"phoneNumber": 9473508054
 			},
@@ -1103,7 +1095,7 @@
 			{
 				"name": "Amit KS",
 				"phoneNumber": 7607033455
-			}	
+			}
 		]
 	},
 	{
@@ -1119,7 +1111,19 @@
 			"main stage",
 			"dramatics"
 		],
-		"organizers": []
+		"organizers": [{
+				"name": "Shubh Singh",
+				"phoneNumber": 7317292025
+			},
+			{
+				"name": "Navneet Kumar Patel",
+				"phoneNumber": 8840042226
+			},
+			{
+				"name": "Jayesh Patil",
+				"phoneNumber": 8319232214
+			}
+		]
 	},
 	{
 		"id": 150,
@@ -1226,5 +1230,5 @@
 			"pro shows"
 		],
 		"organizers": []
-	}	
+	}
 ]
