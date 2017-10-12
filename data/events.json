@@ -397,7 +397,7 @@
 		"location": "CC-3 and Rann bhoomi",
 		"timestamp": 1507975200,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/roadies.png",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/738792496313126",
 		"additionalInfo": [],
 		"categories": [
 			"informal"
@@ -542,7 +542,7 @@
 		"location": "Main Audi",
 		"timestamp": 1507989600,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/lafrenze.jpg",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/1164246687041115/",
 		"additionalInfo": [],
 		"categories": [
 			"dance"
@@ -566,9 +566,9 @@
 		"name": "Carpe Diem",
 		"description": "Because dancing requires great passion and not great skills. It is a solo dance competition.",
 		"location": "Main Audi",
-		"timestamp": 1507899600,
+		"timestamp": 1507982400,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/carpediem.jpg",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/347888505659925/",
 		"additionalInfo": [],
 		"categories": [
 			"dance"
@@ -657,7 +657,7 @@
 		"location": "Cafeteria",
 		"timestamp": 1508079600,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/doubletrouble.jpg",
-		"facebookEventLink": "",
+		"facebookEventLink": "https://www.facebook.com/events/176809319545565/",
 		"additionalInfo": [],
 		"categories": [
 			"dramatics"
@@ -867,6 +867,10 @@
 			"literature"
 		],
 		"organizers": [{
+				"name": "Bhanu Bhandari",
+				"phoneNumber": 9958159280
+			},
+			{
 				"name": "Mantek Singh",
 				"phoneNumber": 8008465118
 			},
